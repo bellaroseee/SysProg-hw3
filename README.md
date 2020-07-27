@@ -2,17 +2,17 @@
 ## Memory-to-File Index Marshaller
 | Program Files | | 
 | --- | --- | 
-| Utils.h | |
-| Utils.cc | | 
-| LayoutStructs.h | |
-| WriteIndex.h | |
-| WriteIndex.cc | |
+| [Utils.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/Utils.h) | utility class for functions and constant to use throughout the program |
+| [Utils.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/Utils.cc) | implementation of Utils header file | 
+| [LayoutStructs.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/LayoutStructs.h) | header file representing the in-memory structs of on-disk data structure |
+| [WriteIndex.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/WriteIndex.h) | Memory Index amd DocTable mapping to index file |
+| [WriteIndex.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/WriteIndex.cc) | implementation of WriteIndex header file |
 
 | Test Files | | 
 | --- | --- | 
-| test_fileindexutil.cc | |
-| test_utils.cc | |
-| test_writeindex.cc | | 
+| [test_fileindexutil.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_fileindexutil.cc) | unit test for Utils.cc |
+| [test_utils.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_utils.cc) | unit test for Utils.cc  |
+| [test_writeindex.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/test_writeindex.cc) | unit test for WriteIndex implementation | 
 
 ## Index Lookup
 | Program Files | | 
