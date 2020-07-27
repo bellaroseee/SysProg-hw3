@@ -17,8 +17,8 @@
 ## Index Lookup
 | Program Files | | 
 | --- | --- |
-| FileIndexReader.h | |
-| FileIndexReader.cc | |
+| [FileIndexReader.h](https://github.com/bellaroseee/SysProg-hw3/blob/master/FileIndexReader.h) | Read the index file written with WriteIndex and build hash table accessor for DocTableReader and IndextableReader | 
+| [FileIndexReader.cc](https://github.com/bellaroseee/SysProg-hw3/blob/master/FileIndexReader.cc) | implementation of FileIndexReader header file |
 | HashTableReader.h | |
 | HashTableReader.cc | |
 | DocTableReader.h | |
